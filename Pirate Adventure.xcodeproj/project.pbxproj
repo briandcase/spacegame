@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6932C99A19B4E958007D831D /* BCWeapon.m in Sources */ = {isa = PBXBuildFile; fileRef = 6932C99919B4E958007D831D /* BCWeapon.m */; };
+		6932C99D19B4E99B007D831D /* BCArmor.m in Sources */ = {isa = PBXBuildFile; fileRef = 6932C99C19B4E99B007D831D /* BCArmor.m */; };
+		6932C9A019B4EA2D007D831D /* BCCharacter.m in Sources */ = {isa = PBXBuildFile; fileRef = 6932C99F19B4EA2D007D831D /* BCCharacter.m */; };
+		6932C9A319B4FEDA007D831D /* BCBoss.m in Sources */ = {isa = PBXBuildFile; fileRef = 6932C9A219B4FEDA007D831D /* BCBoss.m */; };
+		6969C0A819B4DFC50073D091 /* wesleycrusher_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6969C0A619B4DFC50073D091 /* wesleycrusher_2.jpg */; };
+		6969C0A919B4DFC50073D091 /* wesleycrusher.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6969C0A719B4DFC50073D091 /* wesleycrusher.jpg */; };
 		69AEDE0F19B3A5330065D944 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69AEDE0E19B3A5330065D944 /* Foundation.framework */; };
 		69AEDE1119B3A5330065D944 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69AEDE1019B3A5330065D944 /* CoreGraphics.framework */; };
 		69AEDE1319B3A5330065D944 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69AEDE1219B3A5330065D944 /* UIKit.framework */; };
@@ -21,6 +27,18 @@
 		69AEDE3019B3A5330065D944 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69AEDE1219B3A5330065D944 /* UIKit.framework */; };
 		69AEDE3819B3A5330065D944 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 69AEDE3619B3A5330065D944 /* InfoPlist.strings */; };
 		69AEDE3A19B3A5330065D944 /* Pirate_AdventureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 69AEDE3919B3A5330065D944 /* Pirate_AdventureTests.m */; };
+		69AEDE4619B3AE8E0065D944 /* BCTile.m in Sources */ = {isa = PBXBuildFile; fileRef = 69AEDE4519B3AE8E0065D944 /* BCTile.m */; };
+		69AEDE4919B3B44C0065D944 /* BCFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 69AEDE4819B3B44C0065D944 /* BCFactory.m */; };
+		69AEDE5819B404DB0065D944 /* mapstart.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69AEDE4C19B404DB0065D944 /* mapstart.jpg */; };
+		69AEDE5919B404DB0065D944 /* rifles.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69AEDE4D19B404DB0065D944 /* rifles.jpg */; };
+		69AEDE5A19B404DB0065D944 /* romulanshipattack.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69AEDE4E19B404DB0065D944 /* romulanshipattack.jpg */; };
+		69AEDE5B19B404DB0065D944 /* shipbattle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69AEDE4F19B404DB0065D944 /* shipbattle.jpg */; };
+		69AEDE5C19B404DB0065D944 /* startrekattack.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69AEDE5019B404DB0065D944 /* startrekattack.jpg */; };
+		69AEDE5D19B404DB0065D944 /* startrekblacksmith.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69AEDE5119B404DB0065D944 /* startrekblacksmith.jpg */; };
+		69AEDE5E19B404DB0065D944 /* startrekboss.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69AEDE5219B404DB0065D944 /* startrekboss.jpg */; };
+		69AEDE5F19B404DB0065D944 /* startrekfriendlydock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69AEDE5319B404DB0065D944 /* startrekfriendlydock.jpg */; };
+		69AEDE6019B404DB0065D944 /* startrekparrot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69AEDE5419B404DB0065D944 /* startrekparrot.jpg */; };
+		69AEDE6119B404DB0065D944 /* startrekplank.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69AEDE5519B404DB0065D944 /* startrekplank.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +52,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6932C99819B4E958007D831D /* BCWeapon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCWeapon.h; sourceTree = "<group>"; };
+		6932C99919B4E958007D831D /* BCWeapon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCWeapon.m; sourceTree = "<group>"; };
+		6932C99B19B4E99B007D831D /* BCArmor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCArmor.h; sourceTree = "<group>"; };
+		6932C99C19B4E99B007D831D /* BCArmor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCArmor.m; sourceTree = "<group>"; };
+		6932C99E19B4EA2D007D831D /* BCCharacter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCCharacter.h; path = ../BCCharacter.h; sourceTree = "<group>"; };
+		6932C99F19B4EA2D007D831D /* BCCharacter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BCCharacter.m; path = ../BCCharacter.m; sourceTree = "<group>"; };
+		6932C9A119B4FEDA007D831D /* BCBoss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCBoss.h; sourceTree = "<group>"; };
+		6932C9A219B4FEDA007D831D /* BCBoss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCBoss.m; sourceTree = "<group>"; };
+		6969C0A619B4DFC50073D091 /* wesleycrusher_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wesleycrusher_2.jpg; sourceTree = "<group>"; };
+		6969C0A719B4DFC50073D091 /* wesleycrusher.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wesleycrusher.jpg; sourceTree = "<group>"; };
 		69AEDE0B19B3A5330065D944 /* Pirate Adventure.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pirate Adventure.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		69AEDE0E19B3A5330065D944 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		69AEDE1019B3A5330065D944 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +81,20 @@
 		69AEDE3519B3A5330065D944 /* Pirate AdventureTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Pirate AdventureTests-Info.plist"; sourceTree = "<group>"; };
 		69AEDE3719B3A5330065D944 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		69AEDE3919B3A5330065D944 /* Pirate_AdventureTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Pirate_AdventureTests.m; sourceTree = "<group>"; };
+		69AEDE4419B3AE8E0065D944 /* BCTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCTile.h; sourceTree = "<group>"; };
+		69AEDE4519B3AE8E0065D944 /* BCTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCTile.m; sourceTree = "<group>"; };
+		69AEDE4719B3B44B0065D944 /* BCFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCFactory.h; sourceTree = "<group>"; };
+		69AEDE4819B3B44C0065D944 /* BCFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCFactory.m; sourceTree = "<group>"; };
+		69AEDE4C19B404DB0065D944 /* mapstart.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mapstart.jpg; sourceTree = "<group>"; };
+		69AEDE4D19B404DB0065D944 /* rifles.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rifles.jpg; sourceTree = "<group>"; };
+		69AEDE4E19B404DB0065D944 /* romulanshipattack.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = romulanshipattack.jpg; sourceTree = "<group>"; };
+		69AEDE4F19B404DB0065D944 /* shipbattle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shipbattle.jpg; sourceTree = "<group>"; };
+		69AEDE5019B404DB0065D944 /* startrekattack.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = startrekattack.jpg; sourceTree = "<group>"; };
+		69AEDE5119B404DB0065D944 /* startrekblacksmith.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = startrekblacksmith.jpg; sourceTree = "<group>"; };
+		69AEDE5219B404DB0065D944 /* startrekboss.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = startrekboss.jpg; sourceTree = "<group>"; };
+		69AEDE5319B404DB0065D944 /* startrekfriendlydock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = startrekfriendlydock.jpg; sourceTree = "<group>"; };
+		69AEDE5419B404DB0065D944 /* startrekparrot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = startrekparrot.jpg; sourceTree = "<group>"; };
+		69AEDE5519B404DB0065D944 /* startrekplank.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = startrekplank.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +159,7 @@
 				69AEDE2019B3A5330065D944 /* Main.storyboard */,
 				69AEDE2319B3A5330065D944 /* BCViewController.h */,
 				69AEDE2419B3A5330065D944 /* BCViewController.m */,
+				69AEDE4319B3AE5D0065D944 /* Model */,
 				69AEDE2619B3A5330065D944 /* Images.xcassets */,
 				69AEDE1519B3A5330065D944 /* Supporting Files */,
 			);
@@ -126,6 +169,7 @@
 		69AEDE1519B3A5330065D944 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				69AEDE4B19B3FFBB0065D944 /* imagesforbackground */,
 				69AEDE1619B3A5330065D944 /* Pirate Adventure-Info.plist */,
 				69AEDE1719B3A5330065D944 /* InfoPlist.strings */,
 				69AEDE1A19B3A5330065D944 /* main.m */,
@@ -150,6 +194,52 @@
 				69AEDE3619B3A5330065D944 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		69AEDE4319B3AE5D0065D944 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				69AEDE4A19B3B4750065D944 /* Factory */,
+				69AEDE4419B3AE8E0065D944 /* BCTile.h */,
+				6932C99E19B4EA2D007D831D /* BCCharacter.h */,
+				6932C99F19B4EA2D007D831D /* BCCharacter.m */,
+				6932C99B19B4E99B007D831D /* BCArmor.h */,
+				6932C99C19B4E99B007D831D /* BCArmor.m */,
+				6932C99919B4E958007D831D /* BCWeapon.m */,
+				6932C99819B4E958007D831D /* BCWeapon.h */,
+				69AEDE4519B3AE8E0065D944 /* BCTile.m */,
+				6932C9A119B4FEDA007D831D /* BCBoss.h */,
+				6932C9A219B4FEDA007D831D /* BCBoss.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		69AEDE4A19B3B4750065D944 /* Factory */ = {
+			isa = PBXGroup;
+			children = (
+				69AEDE4719B3B44B0065D944 /* BCFactory.h */,
+				69AEDE4819B3B44C0065D944 /* BCFactory.m */,
+			);
+			name = Factory;
+			sourceTree = "<group>";
+		};
+		69AEDE4B19B3FFBB0065D944 /* imagesforbackground */ = {
+			isa = PBXGroup;
+			children = (
+				6969C0A619B4DFC50073D091 /* wesleycrusher_2.jpg */,
+				6969C0A719B4DFC50073D091 /* wesleycrusher.jpg */,
+				69AEDE4C19B404DB0065D944 /* mapstart.jpg */,
+				69AEDE4D19B404DB0065D944 /* rifles.jpg */,
+				69AEDE4E19B404DB0065D944 /* romulanshipattack.jpg */,
+				69AEDE4F19B404DB0065D944 /* shipbattle.jpg */,
+				69AEDE5019B404DB0065D944 /* startrekattack.jpg */,
+				69AEDE5119B404DB0065D944 /* startrekblacksmith.jpg */,
+				69AEDE5219B404DB0065D944 /* startrekboss.jpg */,
+				69AEDE5319B404DB0065D944 /* startrekfriendlydock.jpg */,
+				69AEDE5419B404DB0065D944 /* startrekparrot.jpg */,
+				69AEDE5519B404DB0065D944 /* startrekplank.jpg */,
+			);
+			name = imagesforbackground;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +319,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6969C0A919B4DFC50073D091 /* wesleycrusher.jpg in Resources */,
 				69AEDE2719B3A5330065D944 /* Images.xcassets in Resources */,
+				69AEDE5C19B404DB0065D944 /* startrekattack.jpg in Resources */,
+				69AEDE5E19B404DB0065D944 /* startrekboss.jpg in Resources */,
 				69AEDE1919B3A5330065D944 /* InfoPlist.strings in Resources */,
+				69AEDE5B19B404DB0065D944 /* shipbattle.jpg in Resources */,
+				69AEDE6019B404DB0065D944 /* startrekparrot.jpg in Resources */,
+				69AEDE5F19B404DB0065D944 /* startrekfriendlydock.jpg in Resources */,
+				69AEDE6119B404DB0065D944 /* startrekplank.jpg in Resources */,
+				6969C0A819B4DFC50073D091 /* wesleycrusher_2.jpg in Resources */,
 				69AEDE2219B3A5330065D944 /* Main.storyboard in Resources */,
+				69AEDE5819B404DB0065D944 /* mapstart.jpg in Resources */,
+				69AEDE5D19B404DB0065D944 /* startrekblacksmith.jpg in Resources */,
+				69AEDE5A19B404DB0065D944 /* romulanshipattack.jpg in Resources */,
+				69AEDE5919B404DB0065D944 /* rifles.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,8 +353,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				69AEDE2519B3A5330065D944 /* BCViewController.m in Sources */,
+				6932C99D19B4E99B007D831D /* BCArmor.m in Sources */,
+				6932C9A019B4EA2D007D831D /* BCCharacter.m in Sources */,
 				69AEDE1B19B3A5330065D944 /* main.m in Sources */,
+				6932C99A19B4E958007D831D /* BCWeapon.m in Sources */,
+				69AEDE4619B3AE8E0065D944 /* BCTile.m in Sources */,
+				69AEDE4919B3B44C0065D944 /* BCFactory.m in Sources */,
 				69AEDE1F19B3A5330065D944 /* BCAppDelegate.m in Sources */,
+				6932C9A319B4FEDA007D831D /* BCBoss.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,6 +565,7 @@
 				69AEDE3F19B3A5330065D944 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		69AEDE4019B3A5330065D944 /* Build configuration list for PBXNativeTarget "Pirate AdventureTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +574,7 @@
 				69AEDE4219B3A5330065D944 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
